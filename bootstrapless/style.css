@@ -34,9 +34,17 @@ body{
 }
 #content{
 	background-color: white;
-	height: 1500px;
+	height: 1650px;
 	margin-top: -15px;
-    
-	
-	
+	padding-top: 1px;
+    padding-left: 15px;
+}
+.bold{
+	font-weight: bold;
+}
+#selfpic{
+	width: 200px; 
+	height: 200px;
+	float: left;
+	padding-right: 10px;
 }
